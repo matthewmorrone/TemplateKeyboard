@@ -50,8 +50,8 @@
         <Key android:codes="-5"  android:keyLabel="⌫" android:keyWidth="15%p" android:isRepeatable="true" />
     </Row>
     <Row>
-        <Key android:codes="46,44,63,33,58"  android:keyLabel=".,\?!:" android:keyWidth="20%p" />
-        <Key android:codes="32"  android:keyLabel="␣" android:keyWidth="60%p" android:isRepeatable="true" />
-        <Key android:codes="10"  android:keyLabel="⏎↩" android:keyWidth="20%p" android:isRepeatable="true" />
+        <Key android:codes="46,44,63,33,58"  android:keyLabel=".,\?!:" android:keyWidth="25%p" />
+        <Key android:codes="32"  android:keyLabel="␣" android:keyWidth="50%p" android:isRepeatable="true" />
+        <Key android:codes="10"  android:keyLabel="⏎↩" android:keyWidth="25%p" android:isRepeatable="true" />
     </Row>
 </Keyboard>
